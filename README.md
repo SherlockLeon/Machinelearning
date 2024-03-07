@@ -1,4 +1,4 @@
-# Machinelearning
+# Text-classification
 Text-classification
 To run the Python script Part 2.py on a Linux system, you should consider the following aspects:
 
